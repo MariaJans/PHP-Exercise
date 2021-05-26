@@ -1,0 +1,86 @@
+body{
+background-image: linear-gradient(#868f96 , #19404e);
+width: 1100px;
+margin: auto;
+}
+/******************************home.php*******************************/
+
+h2{
+   margin-top: 0;
+   margin-bottom:5% ;
+}
+.wrapper{
+    display: flex;
+}
+.form{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top:2%;
+}
+.form input{
+    font-family: Georgia, "Times New Roman", Times, serif;
+	border: none;
+	border-radius: 4px;
+	font-size: 15px;
+	padding: 7%;
+	width: 100%;
+	background-color: #e2edf0;
+	color:#050505;
+	-webkit-box-shadow: 0 1px 0 rgba(14, 5, 102, 0.03) inset;
+	box-shadow: 0 1px 0 rgba(5, 3, 138, 0.03) inset;
+	margin-bottom: 3%;
+}
+.form2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top:15%;
+    margin-bottom: 20%;
+}
+.form2 input{
+    font-family: Georgia, "Times New Roman", Times, serif;
+	border: none;
+	border-radius: 4px;
+	font-size: 15px;
+	padding: 7%;
+	width: 100%;
+	background-color: #e2edf0;
+	color:#050505;
+	-webkit-box-shadow: 0 1px 0 rgba(14, 5, 102, 0.03) inset;
+	box-shadow: 0 1px 0 rgba(5, 3, 138, 0.03) inset;
+	margin-bottom: 10%;
+}
+button{
+    font-family: Georgia, "Times New Roman", Times, serif;
+	border: none;
+	border-radius: 4px;
+	font-size: 20px;
+	padding: 7%;
+	width: 80%;
+	background-color: #e2edf0;
+	color:#3f3d3d;
+	-webkit-box-shadow: 0 1px 0 rgba(14, 5, 102, 0.03) inset;
+	box-shadow: 0 1px 0 rgba(5, 3, 138, 0.03) inset;
+	margin-bottom: 10%;
+}
+
+/******************************safe.php*******************************/
+
+h1{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 2%;
+    text-align: left;    
+  }
+  table{
+      width: 100%;
+      margin-bottom: 13%;
+  }
