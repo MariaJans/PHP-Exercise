@@ -1,0 +1,26 @@
+body{
+    background-color:grey;
+    background-image: linear-gradient(grey, rgb(34, 34, 36));
+    background-repeat: no-repeat;
+    width: 1100px;
+    margin: auto;
+    color: honeydew;
+
+}
+form{
+    border: 6px dotted black;
+    padding: 3%;
+    width: fit-content;
+}
+table{
+    border: 4px dotted black;
+    padding: 3%;
+    margin-top: 5%;
+    width: fit-content;
+    margin-bottom: 6%;
+}
+table tr td {
+   border: 2px solid black;
+   
+  
+}

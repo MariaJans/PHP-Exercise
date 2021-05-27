@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     <br>
 
     <tr>
-    <th>Paone:</th>
+    <th>Phone:</th>
     <?php echo "<td>$phone</td>";?>
  
     <tr>
